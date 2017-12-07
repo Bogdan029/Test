@@ -1,0 +1,14 @@
+C:\Users\bivan\Documents\Visual Studio 2017\Projects\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\bivan\Documents\Visual Studio 2017\Projects\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\bivan\Documents\Visual Studio 2017\Projects\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\bivan\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\bivan\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\bivan\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\bivan\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.pdb
+D:\Навчання\Test\Test1\Test1\bin\Debug\Test1.exe.config
+D:\Навчання\Test\Test1\Test1\bin\Debug\Test1.exe
+D:\Навчання\Test\Test1\Test1\bin\Debug\Test1.pdb
+D:\Навчання\Test\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+D:\Навчання\Test\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+D:\Навчання\Test\Test1\Test1\obj\Debug\Test1.exe
+D:\Навчання\Test\Test1\Test1\obj\Debug\Test1.pdb
